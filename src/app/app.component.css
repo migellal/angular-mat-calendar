@@ -1,0 +1,14 @@
+p {
+  font-family: Lato;
+}
+
+::ng-deep {
+  .mat-calendar-body-selected {
+    background-color: #f08300 !important;
+  }
+
+  .mat-calendar-body {
+    font-size: 12px;
+    background: #a8a8a8;
+  }
+}
